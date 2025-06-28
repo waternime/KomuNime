@@ -14,5 +14,5 @@
 - Penambahan Background Pada Login
 
 ## Tool Remove
-- Penghapusan Porfile Sebelah Kiri
+- Penghapusan Profile Sebelah Kiri
 - PenghapusaN Tombol Home di Profile
