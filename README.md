@@ -15,9 +15,6 @@
 ![Cuplikan layar 2025-07-01 181006](https://github.com/user-attachments/assets/9a061c9e-84c1-4e03-88e6-6ddacb66d42e)
 <p align="center">Halaman Beranda</p>
 
-![Cuplikan layar 2025-07-01 181532](https://github.com/user-attachments/assets/10bcb9fe-0657-482b-b08e-02c55c367173)
-<p align="center">Postingan Pengguna Lain</p>
-
 ![Cuplikan layar 2025-07-01 181546](https://github.com/user-attachments/assets/71b2f6ee-0802-4290-8631-257d084fe9a5)
 <p align="center">Interaksi Komentar Dengan Pengguna Lain</p>
 
