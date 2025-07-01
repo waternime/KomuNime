@@ -5,14 +5,34 @@
 4. lalu buka browser lalu ketik localhost/KomuNime/
 5. buat akun dan login selamat mencoba.
 
-## Penambahan Tool
-- Nama Komunitas Topbar
-- Penambahan Profile Pada Bagian Setting
-- Penambahan Reponsive Bagian Home ( Untuk HP Potrait Atau Lanscape )
-- Penambahan Fitur Video ( Cuman Bisa Upload dengan ukuran di bawah 1MB )
-- Penambahan Responsive Pada Login dan Register Website ( Untuk HP Potrait Atau Lanscape )
-- Penambahan Background Pada Login
+## Preview
+![Cuplikan layar 2025-07-01 180044](https://github.com/user-attachments/assets/c7a42e37-1ae0-4925-9a4d-f91d943a7e36)
+<p align="center">Halaman Masuk Pengguna</p>
 
-## Tool Remove
-- Penghapusan Profile Sebelah Kiri
-- PenghapusaN Tombol Home di Profile
+![Cuplikan layar 2025-07-01 181341](https://github.com/user-attachments/assets/253e268b-9430-4a9b-80a1-8035ce1e62a3)
+<p align="center">Halaman Daftar User</p>
+
+![Cuplikan layar 2025-07-01 181006](https://github.com/user-attachments/assets/9a061c9e-84c1-4e03-88e6-6ddacb66d42e)
+<p align="center">Halaman Beranda</p>
+
+![Cuplikan layar 2025-07-01 181532](https://github.com/user-attachments/assets/10bcb9fe-0657-482b-b08e-02c55c367173)
+<p align="center">Postingan Pengguna Lain</p>
+
+![Cuplikan layar 2025-07-01 181546](https://github.com/user-attachments/assets/71b2f6ee-0802-4290-8631-257d084fe9a5)
+<p align="center">Interaksi Komentar Dengan Pengguna Lain</p>
+
+![Cuplikan layar 2025-07-01 181836](https://github.com/user-attachments/assets/f075de08-cb8f-4318-b392-0a61e6285934)
+<p align="center">Menu Posting Foto/Video</p>
+
+![Cuplikan layar 2025-07-01 181734](https://github.com/user-attachments/assets/d2d20e35-4ecf-4f73-bc7b-f2a9e671cff4)
+<p align="center">Postingan Gambar</p>
+
+![Cuplikan layar 2025-07-01 181752](https://github.com/user-attachments/assets/5a668ca5-2468-4575-80e2-dfa8c2fc713b)
+<p align="center">Postingan Video</p>
+
+![Cuplikan layar 2025-07-01 181136](https://github.com/user-attachments/assets/03bcc3df-7504-42b2-9461-1250e8fc142f)
+![Cuplikan layar 2025-07-01 181159](https://github.com/user-attachments/assets/8f7e6ff3-ee85-4381-adb2-d9d0a3652845)
+<p align="center">Halaman Profile</p>
+
+![Cuplikan layar 2025-07-01 182037](https://github.com/user-attachments/assets/bf132dcc-4916-4d2c-9ed2-0d5c356ac644)
+<p align="center">Akun Settting</p>
