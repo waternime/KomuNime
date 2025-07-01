@@ -10,7 +10,7 @@
 <p align="center">Halaman Masuk Pengguna</p>
 
 ![Cuplikan layar 2025-07-01 181341](https://github.com/user-attachments/assets/253e268b-9430-4a9b-80a1-8035ce1e62a3)
-<p align="center">Halaman Daftar User</p>
+<p align="center">Halaman Daftar Pengguna</p>
 
 ![Cuplikan layar 2025-07-01 181006](https://github.com/user-attachments/assets/9a061c9e-84c1-4e03-88e6-6ddacb66d42e)
 <p align="center">Halaman Beranda</p>
